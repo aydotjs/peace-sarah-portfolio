@@ -8,21 +8,21 @@ export default function Works() {
             id:"1",
             title: "Project 1",
             icon:require('../../img/flower-card.jpg'),
-            desc:"bliky blaka blaka, blaka laka bliky blaka blaka, blaka laka",
+            desc:"Flowers",
             img: require('../../img/flower-card.jpg')
         },
         {
             id:"2",
             title: "Project 2",
             icon:require('../../img/flower-card.jpg'),
-            desc:"bliky blaka blaka, blaka laka bliky blaka blaka, blaka laka",
+            desc:"Cards",
             img:require('../../img/flower-card.jpg')
         },
         {
             id:"3",
             icon:require('../../img/flower-card.jpg'),
             title: "Project 3",
-            desc:"bliky blaka blaka, blaka laka bliky blaka blaka, blaka laka",
+            desc:"Gift box",
             img: require('../../img/flower-card.jpg')
         },
     ]

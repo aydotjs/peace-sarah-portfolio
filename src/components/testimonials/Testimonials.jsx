@@ -8,22 +8,22 @@ const data = [
     title: "CEO Plain Codes",
     img:  require('../../img/man.svg').default,
     icon: require('../../img/youtube-icon.png'),
-    desc:"Peace is an absolutely amazing person fvgvhbsjchbsij jb  sjbjchgn dxnji fdxbhdcj"
+    desc:"Peace is an absolutely amazing person "
 },
     {id:2,
-    name: "Ayo Owoeye",
-    title: "CEO Plain Codes",
+    name: "Comfort",
+    title: "CEO Comfort Labs",
     img:  require('../../img/man.svg').default,
     icon: require('../../img/youtube-icon.png'),
-    desc:"Peace is an absolutely amazing person fvgvhbsjchbsij jb  sjbjchgn dxnji fdxbhdcj",
+    desc:"Peace is the best at what she does",
     featured: true
 },
     {id:3,
-    name: "Tony Owoeye",
-    title: "CEO Plain Codes",
+    name: "Olive",
+    title: "CEO Olive Labs",
     img:  require('../../img/man.svg').default,
     icon: require('../../img/youtube-icon.png'),
-    desc:"Peace is an absolutely amazing person fvgvhbsjchbsij jb  sjbjchgn dxnji fdxbhdcj"
+    desc:"Her customer service is the best around"
 },
 ]
 
