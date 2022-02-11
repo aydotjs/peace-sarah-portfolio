@@ -12,7 +12,7 @@ export default function Intro() {
           showCursor: true,
           backDelay:1500,
           backSpeed:60,
-          strings:['craft','make flowers', 'beautify stuffs', 'add beauty to stuffs', 'read'],
+          strings:['craft','make flowers', 'add beauty to stuffs', 'read', 'love what I do'],
       })
     },[])
     return (
@@ -25,7 +25,7 @@ export default function Intro() {
             <div className="right">
                 <div className="wrapper">
                     <h2>Hi there, I'm</h2>
-                    <h1>Sarah</h1>
+                    <h1>Peace Baby</h1>
                     <h3> I <span ref={textRef}></span></h3>
                 </div>
                 <a href='#portfolio'>
